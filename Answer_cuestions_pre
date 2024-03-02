@@ -1,0 +1,39 @@
+1. ¿Cuál de las siguientes afirmaciones es verdadera sobre ResultSet en Java?
+a) Un ResultSet es utilizado para ejecutar consultas SQL.
+b) Un ResultSet representa un conjunto de resultados de una consulta SQL.
+c) Un ResultSet solo puede contener un solo resultado.
+d) Un ResultSet no puede ser utilizado para actualizar datos en una base de
+datos.
+2. ¿Cuál de las siguientes opciones describe mejor el propósito de 'git pull' en
+Git?
+a) Descargar los cambios desde el repositorio remoto y fusionarlos en la
+rama local.
+b) Subir los cambios locales al repositorio remoto.
+c) Visualizar el historial de cambios en el repositorio.
+d) Crear una nueva rama en el repositorio local.
+3. ¿Cuál de las siguientes opciones describe mejor el flujo de trabajo básico en
+Git?
+a) Commit, Merge, Pull
+b) Clone, Branch, Push
+c) Add, Commit, Push
+d) Checkout, Reset, Revert
+4. ¿Qué comando de Git se utiliza para crear una nueva rama?
+a) git branch
+b) git new
+c) git create
+d) git checkout -b
+5. ¿Qué interfaz Java se utiliza para ejecutar consultas parametrizadas en una
+base de datos?
+a) Statement
+b) ResultSet
+c) PreparedStatement
+d) Connection
+
+
+RESPUESTAS 
+1. A
+2. A
+3. C
+4. D
+5. C
+
